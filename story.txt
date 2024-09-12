@@ -8,4 +8,10 @@ In our time, the world felt on the edge of something—technology was advancing 
 We had smartphones, social media, and AI, but we were still bound by the same old problems: inequality, climate anxiety, and a growing sense of 
 disconnection despite being more "connected" than ever. It was an era of constant noise—news cycles spun faster than we could process, and everyone 
 was in a rush to nowhere. We believed we were shaping the future, but in truth, we were only barely holding it together.
-s
+
+(FUTURE)
+
+In 2125, the world was a gleaming utopia on the surface—skyscrapers stretched into the clouds, connected by shimmering bridges of light, and vehicles zipped through the air in perfect harmony. 
+The old scars of climate disasters were buried beneath cities that thrived on renewable energy, and disease had been virtually eradicated. 
+But beneath the perfection, society was hollow. Human connection had faded, replaced by lifeless digital interactions, and everything was governed by an algorithm so precise, it decided your future before you were even born.
+People lived longer, but no one truly lived anymore.
